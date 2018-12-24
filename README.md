@@ -6,5 +6,5 @@ SPCheker request for the phone number you wish to investigate and return the ser
 
 For Example:
 
-If a user input "0701129XXXX" then it returns wheather MTN, Airtel, Etisalat or Globacom whish in this case will surely return Airtel.
+If a user input "0701129XXXX" then it returns wheather MTN, Airtel, Etisalat or Globacom which in this case will surely return Airtel.
 
